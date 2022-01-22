@@ -4,14 +4,16 @@
 #greeting{
     position: absolute;
     text-align: center;
-    top:400px;
-    right: 400px;
+    top:370px;
+    right: 420px;
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 70px;
     color: whitesmoke;
 }
 #login-form{
+    position: absolute;
     top:0px;
+    left:20px;
     font-size: 70px;
     font-weight: lighter;
     font-family: 'Times New Roman', Times, serif;
